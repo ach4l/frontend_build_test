@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "My first Vanilla App for KaiOS",
+  "description": "Simple example of a to-do list",
+  "type": "web",
+  "launch_path": "/index.html",
+  "icons": {
+    "56": "icons-56.png"
+  },
+  "developer": {
+    "name": "Achal",
+    "url": "https://cranky-goodall-0bdb7b.netlify.com/"
+  },
+  "locales": {
+    "en-US": {
+      "name": "Inter-Post",
+      "subtitle": "Get internet posted to you",
+      "description": "Simple example of a to-do list"
+    }
+  },
+  "default_locale": "en-US",
+  "categories":["health"],
+  "type": "web", // or "certified"
+  
+}
